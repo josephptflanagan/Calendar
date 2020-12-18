@@ -1,0 +1,1 @@
+const calendar = document.getElementById('calendar-container')
